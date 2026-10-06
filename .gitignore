@@ -1,0 +1,11 @@
+_work/
+__pycache__/
+*.pyc
+*.zip
+01_WukongBenchmark/bin/Tests.exe
+01_WukongBenchmark/settings-recovery.json
+01_WukongBenchmark/results/
+01_WukongBenchmark/obj/
+01_WukongBenchmark/bin/test-data-*/
+02_Weather/results/*
+!02_Weather/results/20261006T125029_708684Z/

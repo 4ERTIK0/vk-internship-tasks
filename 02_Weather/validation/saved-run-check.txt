@@ -1,0 +1,1 @@
+PASS: all 8 original API responses agree with the report; all 3 country summaries recomputed independently.

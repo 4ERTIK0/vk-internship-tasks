@@ -1,0 +1,15 @@
+﻿Успешно: 8/8 уникальных городов
+
+Moscow, Russia +11 °C
+Khabarovsk, Russia +11 °C
+Saint-Petersburg, Russia +15 °C
+Vienna, Austria +22 °C
+Izhevsk, Russia +9 °C
+Perm, Russia +6 °C
+NhaTrang, Vietnam +26 °C
+Villach, Austria +18 °C
+
+Статистика по странам (только успешные ответы):
+Austria - 2 cities, avg: +20 °C, min: +18 °C, max: +22 °C
+Russia - 5 cities, avg: +10.4 °C, min: +6 °C, max: +15 °C
+Vietnam - 1 cities, avg: +26 °C, min: +26 °C, max: +26 °C

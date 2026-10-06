@@ -1,0 +1,87 @@
+{
+  "complete": true,
+  "unique_cities": 8,
+  "input_sha256": "f4382cbb20e53744dbba3fc52bccdb6bec39541f9316b0212d8110cff5aea8ea",
+  "weather": [
+    {
+      "city": "Moscow",
+      "temperature_c": "11",
+      "country": "Russia",
+      "resolved_city": "Москва",
+      "fetched_at_utc": "2026-10-06T12:50:30.223104+00:00"
+    },
+    {
+      "city": "Khabarovsk",
+      "temperature_c": "11",
+      "country": "Russia",
+      "resolved_city": "Хабаровск",
+      "fetched_at_utc": "2026-10-06T12:50:31.640126+00:00"
+    },
+    {
+      "city": "Saint-Petersburg",
+      "temperature_c": "15",
+      "country": "Russia",
+      "resolved_city": "Лахта",
+      "fetched_at_utc": "2026-10-06T12:50:33.024714+00:00"
+    },
+    {
+      "city": "Vienna",
+      "temperature_c": "22",
+      "country": "Austria",
+      "resolved_city": "Inner City",
+      "fetched_at_utc": "2026-10-06T12:50:34.451094+00:00"
+    },
+    {
+      "city": "Izhevsk",
+      "temperature_c": "9",
+      "country": "Russia",
+      "resolved_city": "Ижевск",
+      "fetched_at_utc": "2026-10-06T12:50:35.833997+00:00"
+    },
+    {
+      "city": "Perm",
+      "temperature_c": "6",
+      "country": "Russia",
+      "resolved_city": "Пермь",
+      "fetched_at_utc": "2026-10-06T12:50:37.295634+00:00"
+    },
+    {
+      "city": "NhaTrang",
+      "temperature_c": "26",
+      "country": "Vietnam",
+      "resolved_city": "Nha Trang",
+      "fetched_at_utc": "2026-10-06T12:50:38.781456+00:00"
+    },
+    {
+      "city": "Villach",
+      "temperature_c": "18",
+      "country": "Austria",
+      "resolved_city": "Villach",
+      "fetched_at_utc": "2026-10-06T12:50:40.159501+00:00"
+    }
+  ],
+  "countries": [
+    {
+      "country": "Austria",
+      "count": 2,
+      "average_c": "20",
+      "minimum_c": "18",
+      "maximum_c": "22"
+    },
+    {
+      "country": "Russia",
+      "count": 5,
+      "average_c": "10.4",
+      "minimum_c": "6",
+      "maximum_c": "15"
+    },
+    {
+      "country": "Vietnam",
+      "count": 1,
+      "average_c": "26",
+      "minimum_c": "26",
+      "maximum_c": "26"
+    }
+  ],
+  "errors": []
+}

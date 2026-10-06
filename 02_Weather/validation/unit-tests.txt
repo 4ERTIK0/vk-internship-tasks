@@ -1,0 +1,19 @@
+test_all_fail_is_explicit (test_weather.WeatherTests.test_all_fail_is_explicit) ... ok
+test_country_statistics_include_negative_and_zero (test_weather.WeatherTests.test_country_statistics_include_negative_and_zero) ... ok
+test_empty_and_html_rejected (test_weather.WeatherTests.test_empty_and_html_rejected) ... ok
+test_invalid_json_preserved (test_weather.WeatherTests.test_invalid_json_preserved) ... ok
+test_invalid_payloads (test_weather.WeatherTests.test_invalid_payloads) ... ok
+test_network_retries_exhausted (test_weather.WeatherTests.test_network_retries_exhausted) ... ok
+test_no_retry_404 (test_weather.WeatherTests.test_no_retry_404) ... ok
+test_parse_current_temperature (test_weather.WeatherTests.test_parse_current_temperature) ... ok
+test_partial_run_has_exit_one_and_computed_stats (test_weather.WeatherTests.test_partial_run_has_exit_one_and_computed_stats) ... ok
+test_retry_429_and_503 (test_weather.WeatherTests.test_retry_429_and_503) ... ok
+test_retry_after_bound (test_weather.WeatherTests.test_retry_after_bound) ... ok
+test_temperature_format (test_weather.WeatherTests.test_temperature_format) ... ok
+test_unicode_bom_dedup_order (test_weather.WeatherTests.test_unicode_bom_dedup_order) ... ok
+test_url_encoding_and_raw_archive (test_weather.WeatherTests.test_url_encoding_and_raw_archive) ... ok
+
+----------------------------------------------------------------------
+Ran 14 tests in 0.052s
+
+OK

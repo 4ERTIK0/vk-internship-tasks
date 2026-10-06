@@ -1,0 +1,35 @@
+PASS FPS horizontal labels
+PASS FPS number above label
+PASS decimal comma
+PASS empty result rejected
+PASS incomplete metrics rejected
+PASS inconsistent FPS rejected
+PASS NaN rejected
+PASS zero FPS rejected
+PASS ambiguous result rejected
+PASS low-confidence noise removed
+PASS cross-block OCR phrase
+PASS avoid longer label prefix
+PASS read setting value in same row
+PASS resolution whitespace
+PASS resolution multiplication symbol
+PASS do not accept partial setting value
+PASS Steam VDF escaped path
+PASS VDF missing field
+PASS static menu is not completed benchmark
+PASS motion is not completion
+PASS wait for stable result
+PASS stable scene may be OCR checked
+PASS new motion resets stability
+PASS image difference normalized
+PASS restore original bytes and encoding
+PASS restore read-only attribute
+PASS remove only newly created INI
+PASS recovery journal removed after restoration
+PASS first launch without config files
+PASS reject backup path traversal
+PASS reject another installation backup
+PASS JSON round trip
+PASS report UTF-8 and HTML escaping
+PASS real OCR on synthetic image
+ALL 34 CHECKS PASSED. Synthetic inputs; this is not a game runtime test.
